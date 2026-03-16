@@ -1,6 +1,8 @@
 # 📊 Job Market Data Analyzer
 
-![Dashboard Preview](c:\Users\Hp\Pictures\Screenshots\app_dashboard.png)
+![Dashboard Preview](<img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/3b191c2e-ef20-4a15-b8e9-3e59d698d1d9" />
+<img width="1915" height="991" alt="image" src="https://github.com/user-attachments/assets/3b191c2e-ef20-4a15-b8e9-3e59d698d1d9" />
+)
 
 ## 🚀 Project Overview
 
